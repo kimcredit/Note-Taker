@@ -1,7 +1,9 @@
 # Note Taker
 An application that allows the user to take, save, and delete notes. 
 
+<kbd>
 <img src="images/example.png" width="700">
+</kbd>
 
 ## Functionality 
 ```
